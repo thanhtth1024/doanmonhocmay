@@ -1,0 +1,219 @@
+timestamp,email_text,is_spam,spam_probability,word_count,spam_count
+2025-02-19 19:06:30,"Fake Lottery Win
+From: jackpot@lottery-winner.com
+To: john.doe@example.com
+Subject: 🎉 Congratulations! You’ve Won $1,000,000!
+
+Dear John Doe,
+
+You are the lucky winner of our annual jackpot lottery! Your email was randomly selected, and you have won a grand prize of $1,000,000.
+
+To claim your reward, simply provide your bank details and a copy of your ID. Act fast! This offer expires in 48 hours.
+
+Best Regards,
+Mr. Richard Thompson
+Lottery Processing Team
+
+",True,1.0,71,42
+2025-02-19 19:12:59,"From: events@marketingworld.com
+To: robert.anderson@example.com
+Subject: 🎤 You’re Invited: Digital Marketing Summit 2025
+
+Dear Robert,
+
+We’re excited to invite you to the Digital Marketing Summit 2025, happening on November 15-16 in New York City.
+
+Join top industry leaders for networking, keynotes, and workshops.
+
+🎟 Register now: Click Here
+
+Best,
+Sophia Lee
+Event Coordinator | Marketing World
+
+",True,0.7619163745587937,55,32
+2025-02-19 19:13:12,"From: billing@greenenergy.com
+To: accounting@yourbusiness.com
+Subject: 🧾 Invoice #234567 - Green Energy Services
+
+Dear Accounting Team,
+
+Please find attached Invoice #234567 for the September services. The total amount due is $2,350, payable by October 30th.
+
+Let us know if you have any questions.
+
+Best Regards,
+Anna Lopez
+Finance Department | Green Energy Solutions",False,2.2836957662711443e-14,52,31
+2025-02-19 19:13:33,"From: Sarah James, HR Manager (HR@TechInnovate.com)
+To: John Smith (john.smith@email.com)
+Subject: Interview Invitation for Software Engineer Position
+
+Dear Mr. Smith,
+
+I hope this email finds you well. After reviewing your resume and application, we are pleased to invite you to an interview for the Software Engineer position at Tech Innovate.
+
+Please reply with your availability for the interview, and we will arrange a suitable time.
+
+Best regards,
+Sarah James
+HR Manager
+Tech Innovate
+HR@TechInnovate.com",False,3.4963934036152528e-12,74,49
+2025-02-19 19:13:34,"From: Emma Cooper, Marketing Director (marketing@GreenFuture.org)
+To: David Lee (david.lee@email.com)
+Subject: GreenFuture Annual Conference Details
+
+Dear Mr. Lee,
+
+Thank you for your interest in attending the GreenFuture Annual Conference. We are excited to confirm your registration for the event.
+
+The conference will take place on March 15th, and detailed information regarding the schedule and speakers will be sent to you shortly.
+
+Best regards,
+Emma Cooper
+Marketing Director
+GreenFuture
+marketing@GreenFuture.org",False,4.3823528834788565e-11,69,38
+2025-02-19 19:13:34,"From: William Black, Investment Advisor (investmentopportunity@businessopportunities.com)
+To: Jennifer Taylor (jennifer.taylor@email.com)
+Subject: Immediate Investment Opportunity – Double Your Money in 30 Days
+
+Dear Jennifer,
+
+I’m reaching out to offer you a guaranteed investment opportunity. You can double your money in just 30 days by investing in this new, highly lucrative venture.
+
+Simply click on the link below to secure your spot and begin earning!
+
+[Insert fraudulent link]
+
+Best regards,
+William Black
+Investment Advisor
+investmentopportunity@businessopportunities.com",True,0.999999999853685,73,49
+2025-02-19 19:13:35,"From: Mark Johnson, Prize Winner Notifications (info@winningoffers.com)
+To: Michael Brown (michael.brown@email.com)
+Subject: Congratulations! You’ve Won a $1000 Gift Card!
+
+Dear Michael,
+
+Congratulations! You’ve been selected as the winner of a $1000 gift card from Winning Offers.
+
+To claim your prize, please follow the instructions in the attached link and provide your personal details. Don’t miss out on this limited-time offer!
+
+Warm regards,
+Mark Johnson
+Prize Winner Notifications
+info@winningoffers.com",True,0.9999990105556328,68,50
+2025-03-12 22:48:06,"Fake Lottery Win
+From: jackpot@lottery-winner.com
+To: john.doe@example.com
+Subject: 🎉 Congratulations! You’ve Won $1,000,000!
+
+Dear John Doe,
+
+You are the lucky winner of our annual jackpot lottery! Your email was randomly selected, and you have won a grand prize of $1,000,000.
+
+To claim your reward, simply provide your bank details and a copy of your ID. Act fast! This offer expires in 48 hours.
+
+Best Regards,
+Mr. Richard Thompson
+Lottery Processing Team
+
+",True,0.6929879776777131,71,42
+2025-03-20 07:57:38,"8️⃣ Event Invitation
+From: events@marketingworld.com
+To: robert.anderson@example.com
+Subject: 🎤 You’re Invited: Digital Marketing Summit 2025
+
+Dear Robert,
+
+We’re excited to invite you to the Digital Marketing Summit 2025, happening on November 15-16 in New York City.
+
+Join top industry leaders for networking, keynotes, and workshops.
+
+🎟 Register now: Click Here
+
+Best,
+Sophia Lee
+Event Coordinator | Marketing World",True,0.6046466174340737,58,34
+2025-03-20 07:58:07,"7️⃣ Job Application Response
+From: careers@futuretech.com
+To: james.wilson@example.com
+Subject: 📄 Interview Invitation – Software Engineer Position
+
+Dear James,
+
+Thank you for applying to FutureTech! We were impressed with your resume and would like to invite you for an interview on October 25th at 2:00 PM via Zoom.
+
+Please confirm your availability.
+
+Best Regards,
+Emily Carter
+HR Manager | FutureTech
+
+",False,0.3973330085773388,59,33
+2025-03-20 07:58:23,"3️⃣ Fake Work-from-Home Job Offer
+From: hr@quickrichjobs.com
+To: emma.jones@example.com
+Subject: 📢 Work from Home & Earn $500 Daily!
+
+Hi Emma,
+
+We are offering a unique opportunity to earn $500 per day by working just 2 hours from home! No prior experience needed!
+
+👉 Apply now: Apply Here
+
+Limited slots available! Don’t miss this life-changing opportunity.
+
+Best,
+Mark Taylor
+HR Manager",True,0.5441992199722101,60,36
+2025-03-20 07:59:07,"Fake Tech Support Scam
+From: support@microsoft-tech-help.com
+To: michael.brown@example.com
+Subject: 🚨 Your PC Has a Virus! Immediate Action Required!
+
+Dear Michael,
+
+Our system has detected critical viruses on your computer. Your data is at risk! Immediate support is needed.
+
+🔧 Call our certified support team now at +1-800-FAKE-HELP for a free fix.
+
+Stay Safe,
+Microsoft Technical Support",True,0.5319203751474176,56,35
+2025-04-08 22:26:24,"From: Lucky Draw Center winner@global-prizevault.com
+To: user123@example.com
+Subject: 🎉 CONGRATULATIONS! You've Won $1,000,000 – Claim Now!
+
+Dear Winner,
+
+This is to inform you that your email address has been selected as the grand prize winner of our Global Lucky Draw 2025. You are entitled to a cash prize of $1,000,000 USD.
+
+To claim your prize, please send your full name, address, and phone number immediately to our claims department. This offer expires in 48 hours!
+
+Act fast, fortune favors the brave!
+
+Yours faithfully,
+Sandra M.
+Claims Coordinator
+Global Prize Vault Inc.",True,0.5964945358151493,91,55
+2025-04-08 22:37:12,"From: CryptoMastery Academy invest@cryptomasteryhub.biz
+To: you@yourmail.com
+Subject: Turn $100 Into $10,000 In Just 7 Days!
+
+Hey there,
+
+What if I told you there's a secret crypto hack that the rich don’t want you to know? With our CryptoMastery AI Bot, you can grow your money 100x with zero effort!
+
+✅ No experience needed
+✅ 100% automated system
+✅ Guaranteed returns*
+
+Join our elite investors today. Sign up for FREE and unlock your financial freedom: [Click here]
+
+Success is one click away,
+Team CryptoMastery
+CryptoMastery Academy
+
+",True,0.770814802240616,85,49
